@@ -11622,7 +11622,7 @@
         pimage.__texture = texture;
 
         var cvs = document.createElement('canvas');
-        
+
         var pot;
 
         // WebGL requires power of two textures
